@@ -1,12 +1,12 @@
 // =======================================================
 // WEBSITE NAME (NICKNAME)
 // =======================================================
-var website_name = "YASIN";
+var website_name = "SHYAIAN";
 
 // =======================================================
 // TELEGRAM CHANNEL LINK
 // =======================================================
-var telegram_channel_link = "telegram channel link";
+var telegram_channel_link = "t.me/Shyaian";
 
 // =======================================================
 // TELEGRAM GROUP LINK
