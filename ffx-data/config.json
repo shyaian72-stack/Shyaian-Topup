@@ -1,11 +1,15 @@
 {
   "logo": "logo-1793901304590.png",
   "ffBanner": null,
-  "ffPackages": null,
   "banners": [
     "banner-1793948505936-3755.jpg",
     "banner-1793951954805-890.jpg",
     "banner-1793949254986-3389.jpg"
   ],
-  "quick": null
+  "quick": null,
+  "images": {
+    "uc": "img-uc-1794243816376.png"
+  },
+  "prod": null,
+  "texts": null
 }
